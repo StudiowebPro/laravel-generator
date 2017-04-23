@@ -1,3 +1,5 @@
+This is a fork for dev complex generator project boilerplate
+
 Laravel Resource Generator (Laravel5.1)
 ======================= 
 
